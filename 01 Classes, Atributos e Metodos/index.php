@@ -13,7 +13,7 @@ class Pessoas{
 }
 
 $Jonas = new Pessoas();
-$Jonas->nome = 'Jonas';
+$Jonas->nome = 'Jonas';//instância
 $Jonas->idade = 17;
 //var_dump($Jonas);
 $Jonas->Falar();
