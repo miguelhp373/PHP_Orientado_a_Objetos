@@ -1,0 +1,13 @@
+{
+    "name": "miguelhp/composer",
+    "description": "Composer Test",
+    "require": {
+        "dompdf/dompdf": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Miguel Henrique",
+            "email": "miguelhp373@gmail.com"
+        }
+    ]
+}

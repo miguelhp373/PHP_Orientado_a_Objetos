@@ -10,6 +10,7 @@ class Pessoa{
 }
 
 // cria uma classe que exibe o nome, atributos pessoa, que serve para instanciar a classe pessoa, e o nome para instanciar o nome, depois metodo construct para instanciar nova pessoa e nome, depois metodo exibe nome, instancia o metodo atribui metodo da classe pessoa e passa o parametro nome;
+
 class Exibe{
     public $pessoa;
     public $nome;
