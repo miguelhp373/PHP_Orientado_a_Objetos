@@ -1,4 +1,4 @@
-CREATE DATABASE Pdo;
+CREATE DATABASE pdo;
 
 use pdo;
 

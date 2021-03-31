@@ -12,10 +12,10 @@ class Connection{
 
     public static function getConnection(){
         if(!isset(self::$instance)){
-            self::$instance = new PDO('mysql:host=localhost;dbname=pdo;charset=utf8','root','root');
-        }else{
-            return self::$instance;
+            self::$instance = new \PDO('mysql:host=localhost;dbname=pdo;charset=utf8','root','root');
         }
+
+        return self::$instance;
     }
 }
 
